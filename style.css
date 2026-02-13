@@ -33,5 +33,5 @@ input[type="text"], input[type="email"], input[type="password"] {
 
 /* Dynamic Class for Task 4 */
 .expanded {
-    background-color: #60b946; color: rgb(119, 45, 45); transform: scale(1.1);
+    background-color: #60b946; color: white; transform: scale(1.1);
 }

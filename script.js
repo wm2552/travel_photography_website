@@ -96,6 +96,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if(usernameCheck != -1 && passwordCheck != -1 && emailCheck != -1 && terms.checked == true){
       alert("All fields valid, success!");
+      document.getElementById("signup-form").submit()
     }
 
   });
